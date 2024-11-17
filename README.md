@@ -1,42 +1,58 @@
-# 🌟 Mi Portafolio de Ingeniería de Software
-
-Bienvenido a mi portafolio, donde podrás conocer más sobre mí, mis habilidades y mis objetivos profesionales. 🚀
-
-## ✍️ Perfil Profesional
-Soy estudiante de la carrera de **Ingeniería de Software** con una gran pasión por la tecnología. Me motiva crear soluciones innovadoras en desarrollo **backend** y **frontend**, además de trabajar con bases de datos. Me destaco en entornos colaborativos gracias a mis habilidades de comunicación y responsabilidad, lo que me permite contribuir eficazmente en equipos de trabajo.
-
-## 🎯 Objetivo Profesional
-Mi objetivo es convertirme en un desarrollador **Full Stack** altamente capacitado, creando soluciones tecnológicas que resuelvan problemas reales. Busco adquirir experiencia tanto en backend como frontend, y seguir aprendiendo para adaptarme a las nuevas tecnologías y contribuir a proyectos de impacto social y empresarial. 🌍
+# 🌟 ¡Hola! Soy Joel Bienvenido a mi perfil de GitHub👋
 
 ---
 
-## 🛠️ Habilidades
-
-### Lenguajes y Bases de Datos
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="40" /> 
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40" /> 
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="40" /> 
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="40" />
-
-### Frameworks
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" height="40" /> 
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" height="40" /> 
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="40" />
-
-### Herramientas
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" /> 
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="40" /> 
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="40" /> 
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" height="40" />
+## ✨ Sobre Mí  
+📚 Soy una persona comprometida con el aprendizaje continuo, enfocada en crear soluciones tecnológicas que resuelvan problemas reales. Mis habilidades de comunicación y trabajo en equipo me permiten colaborar eficientemente en entornos ágiles. Además, me apasiona explorar nuevas tecnologías y mantenerme actualizado con las tendencias del desarrollo de software.
 
 ---
 
-## 🌐 Visita mi Portafolio
-Puedes explorar más sobre mí y mis proyectos en mi portafolio. ¡Haz clic en el enlace! [Visitar Portafolio](https://tu-link-de-portafolio.com) 🌐
+## 🎯 Objetivo Profesional  
+🚀 Mi meta es convertirme en un **Desarrollador Full Stack** altamente capacitado, trabajando en soluciones tecnológicas que impacten positivamente tanto a nivel social como empresarial. Estoy en constante búsqueda de oportunidades para aprender, crecer y aportar valor.
 
 ---
 
-## 📩 Contacto
-Si deseas comunicarte conmigo, no dudes en escribirme a través de mi correo o redes sociales.
+## 🛠️ Habilidades Técnicas  
 
-¡Gracias por tu interés en mi trabajo! 💼
+### 🌐 **Lenguajes de Programación**  
+<div style="display: flex; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="50" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="50" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="50" style="margin-right: 10px;" />
+</div>
+
+### 🗄️ **Bases de Datos**  
+<div style="display: flex; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="50" style="margin-right: 10px;" />
+</div>
+
+### ⚙️ **Frameworks y Librerías**  
+<div style="display: flex; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" height="50" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" height="50" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="50" style="margin-right: 10px;" />
+</div>
+
+### 🛠️ **Herramientas**  
+<div style="display: flex; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="50" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="50" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" height="50" style="margin-right: 10px;" />
+</div>
+
+---
+
+## 🌐 Portafolio  
+💻 **Conoce más sobre mí en mi portafolio:**  
+👉 [**Visitar Portafolio**](https://joelbonillag.github.io/Tarea_Manejo/) 🌐  
+
+---
+
+## 📩 Contacto  
+📧 **Correo Electrónico:** [bjeferssonvinicio2005@gmail.com](mailto:bjeferssonvinicio2005@gmail.com)  
+
+---
+
+### ⭐ ¡Gracias por visitar mi perfil!  
+
