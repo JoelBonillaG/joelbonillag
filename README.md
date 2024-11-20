@@ -61,17 +61,10 @@
 
 ## 💼 Proyectos  
 
-- **Typing Game**  
-  _Se puede encontrar en [Typing Game](https://github.com/JoelBonillaG/proyecto-edd)_  
-
-- **Capigochi**  
-  _Se puede encontrar en [Capigochi](https://github.com/JoelBonillaG/Capigochi)_  
-
-- **My Creative Portfolio**  
-  _Se puede encontrar en [Portfolio](https://github.com/JoelBonillaG/proyecto-mds)_  
-
-- **Elecciones UTA**  
-  _Se puede encontrar en [Elecciones UTA](https://github.com/JoelBonillaG/Pagina_Votaciones_UTA)_  
+- [**Typing Game**](https://github.com/JoelBonillaG/proyecto-edd)  
+- [**Capigochi**](https://github.com/JoelBonillaG/Capigochi)  
+- [**My Creative Portfolio**](https://github.com/JoelBonillaG/proyecto-mds)  
+- [**Elecciones UTA**](https://github.com/JoelBonillaG/Pagina_Votaciones_UTA) 
 
 ---
 
