@@ -48,8 +48,8 @@
 
 ### 📜 Certificaciones  
 - **UTA:**  
-  - Java  
-  - Arduino  
+  - Java Básico 
+  - Arduino Básico 
   - Python y Django  
 
 - **Kaspersky:**  
@@ -70,7 +70,7 @@
 
 ## 🌐 Portafolio  
 💻 **Conoce más sobre mí en mi portafolio:**  
-👉 [**Visitar Portafolio**](https://joelbonillag.github.io/Tarea_Manejo/) 🌐  
+👉 [**Visitar Portafolio**](https://joelbonillag.github.io/Portafolio/) 🌐  
 
 ---
 
