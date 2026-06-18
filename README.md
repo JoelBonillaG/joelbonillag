@@ -9,6 +9,12 @@
 
 <br/>
 
+<!-- Language switch -->
+[![English](https://img.shields.io/badge/lang-English-BA7517?style=for-the-badge)](README.md)
+[![Español](https://img.shields.io/badge/lang-Espa%C3%B1ol-2C2C2A?style=for-the-badge&labelColor=2C2C2A)](README.es.md)
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=JoelBonillaG&style=for-the-badge&color=BA7517&label=PROFILE+VIEWS" alt="views" />
 <img src="https://img.shields.io/github/followers/JoelBonillaG?style=for-the-badge&color=BA7517&labelColor=2C2C2A&logo=github" alt="followers" />
 <img src="https://img.shields.io/badge/Ambato-Ecuador-FAC775?style=for-the-badge&labelColor=2C2C2A&logo=googlemaps&logoColor=FAC775" alt="location" />
