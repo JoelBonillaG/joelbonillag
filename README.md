@@ -18,7 +18,7 @@
 </div>
 
 <!-- ====================== ABOUT ====================== -->
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px" /> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="32px" /> About Me
 
 ```ts
 const joel = {
@@ -42,7 +42,7 @@ const joel = {
 
 </td>
 <td valign="top" width="330">
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="330" alt="coding" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="330" alt="coding" />
 </td>
 </tr>
 </table>
@@ -50,7 +50,7 @@ const joel = {
 <br/>
 
 <!-- ====================== TECH STACK ====================== -->
-## 🛠️ Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30px" /> Tech Stack
 
 <div align="center">
 
@@ -161,7 +161,7 @@ const joel = {
 <br/>
 
 <!-- ====================== CONTACT ====================== -->
-## 📫 Let's Connect
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="32px" /> Let's Connect
 
 <div align="center">
 
