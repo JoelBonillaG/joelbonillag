@@ -1,7 +1,7 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-# Hola 👋, soy Fernando Joel Bonilla
+# Hola 👋, soy Joel Bonilla
 
 ### 💻 Ingeniero de Software · Full-Stack · Visión por Computador e IA
 
@@ -18,7 +18,7 @@
 </div>
 
 <!-- ====================== ABOUT ====================== -->
-## 🚀 Sobre mí
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px" /> Sobre mí
 
 ```ts
 const joel = {
@@ -30,11 +30,22 @@ const joel = {
 };
 ```
 
+<table>
+<tr>
+<td valign="top">
+
 - 🧩 Construyo **sistemas completos de principio a fin** — APIs REST/gRPC, aplicaciones web y móviles, microservicios distribuidos y soluciones de IA y visión por computador.
 - ⚙️ Mi base es **Java y Spring Boot, NestJS, Angular y React, Flutter y Python**, sobre **PostgreSQL/SQL** y **Docker**.
 - 🧠 Me importan la **arquitectura limpia, SOLID, las pruebas automatizadas y el CI/CD** — código que otros puedan mantener de verdad.
 - 🔭 Disfruto convertir **problemas complejos** (lógica difusa, redes neuronales, sistemas en tiempo real) en **productos que funcionan**.
 - 🌱 En constante aprendizaje — mi trabajo va desde backends empresariales hasta pipelines con YOLO/U-Net/CNN.
+
+</td>
+<td valign="top" width="330">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="330" alt="coding" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -131,17 +142,6 @@ const joel = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelBonillaG/JoelBonillaG/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/JoelBonillaG/JoelBonillaG/output/github-snake.svg" width="100%" />
 </picture>
-
-</div>
-
-<br/>
-
-<!-- ====================== TROPHIES ====================== -->
-## 🏆 Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoelBonillaG&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 
 </div>
 

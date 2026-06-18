@@ -1,7 +1,7 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-# Hi 👋, I'm Fernando Joel Bonilla
+# Hi 👋, I'm Joel Bonilla
 
 ### 💻 Software Engineer · Full-Stack · Computer Vision & AI
 
@@ -18,7 +18,7 @@
 </div>
 
 <!-- ====================== ABOUT ====================== -->
-## 🚀 About Me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px" /> About Me
 
 ```ts
 const joel = {
@@ -30,11 +30,22 @@ const joel = {
 };
 ```
 
+<table>
+<tr>
+<td valign="top">
+
 - 🧩 I build **complete systems end to end** — REST/gRPC APIs, web & mobile apps, distributed microservices and AI/computer-vision solutions.
 - ⚙️ My foundation is **Java & Spring Boot, NestJS, Angular & React, Flutter and Python**, on top of **PostgreSQL/SQL** and **Docker**.
 - 🧠 I care about **clean architecture, SOLID, automated testing and CI/CD** — code that other people can actually maintain.
 - 🔭 I enjoy turning **complex problems** (fuzzy logic, neural networks, real-time systems) into **products that work**.
 - 🌱 Always learning — my work spans from enterprise backends to YOLO/U-Net/CNN pipelines.
+
+</td>
+<td valign="top" width="330">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="330" alt="coding" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -131,17 +142,6 @@ const joel = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelBonillaG/JoelBonillaG/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/JoelBonillaG/JoelBonillaG/output/github-snake.svg" width="100%" />
 </picture>
-
-</div>
-
-<br/>
-
-<!-- ====================== TROPHIES ====================== -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoelBonillaG&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 
 </div>
 
