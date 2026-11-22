@@ -1,186 +1,144 @@
-<!-- ====================== HEADER ====================== -->
 <div align="center">
 
-# Hi 👋, I'm Joel Bonilla
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-en-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-en-light.svg" />
+  <img src="assets/banner-en-dark.svg" width="100%" alt="Joel Bonilla — Full stack developer" />
+</picture>
 
-### 💻 Software Engineer · Full-Stack · Computer Vision & AI
-
-<a href="https://github.com/JoelBonillaG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BA7517&center=true&vCenter=true&width=620&lines=Software+Engineer;Full-Stack+Developer;Microservices+%26+Clean+Architecture;Computer+Vision+%26+AI;Always+learning+something+new" alt="typing" />
-</a>
-
-<br/>
-
-<!-- Language switch -->
-[![English](https://img.shields.io/badge/lang-English-BA7517?style=for-the-badge)](README.md)
-[![Español](https://img.shields.io/badge/lang-Espa%C3%B1ol-2C2C2A?style=for-the-badge&labelColor=2C2C2A)](README.es.md)
+**English** · [Español](README.es.md)
 
 </div>
 
-<!-- ====================== ABOUT ====================== -->
-## <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="32px" /> About Me
+**I build software end to end:** I understand the problem, design the database and the API, and ship the interface people actually use.
 
-```ts
-const joel = {
-  role: "Software Engineer",
-  based_in: "Ambato, Ecuador 🇪🇨",
-  studying: "B.Eng. Software Engineering @ Universidad Técnica de Ambato",
-  focus: ["Full-Stack", "Microservices", "Cloud", "Computer Vision & AI"],
-  currently: "Open to new opportunities",
-};
-```
+Full stack developer and final-year Software Engineering student at Universidad Técnica de Ambato (Ecuador), with one year of work experience in development, systems support and data.
+
+<sub>Ambato, Ecuador · 1 year of work experience · 1 published paper · Open to remote or on-site roles</sub>
+
+### What I do
 
 <table>
 <tr>
-<td valign="top">
+<td width="33%" valign="top"><b>Backend</b><br/>APIs and services that talk to each other, with role-based security and automated tests.</td>
+<td width="33%" valign="top"><b>Frontend &amp; mobile</b><br/>Clear web interfaces and mobile apps, connected to the backend in real time.</td>
+<td width="33%" valign="top"><b>Data</b><br/>Well-modelled databases, reports and KPIs so teams decide with data.</td>
+</tr>
+</table>
 
-- 🧩 I build **complete systems end to end** — REST/gRPC APIs, web & mobile apps, distributed microservices and AI/computer-vision solutions.
-- ⚙️ My foundation is **Java & Spring Boot, NestJS, Angular & React, Flutter and Python**, on top of **PostgreSQL/SQL** and **Docker**.
-- 🧠 I care about **clean architecture, SOLID, automated testing and CI/CD** — code that other people can actually maintain.
-- 🔭 I enjoy turning **complex problems** (fuzzy logic, neural networks, real-time systems) into **products that work**.
-- 🌱 Always learning — my work spans from enterprise backends to YOLO/U-Net/CNN pipelines.
+### Experience
 
+**Data &amp; BI Analyst · Kronhos** <sub>(Jan – Jun 2026)</sub>  
+Reports for 5+ client companies of a commercial ERP; optimized the queries behind them and cut their run time by <b>60%</b> on average.
+
+**Developer &amp; systems support · Vaz Sport** <sub>(Jul – Dec 2025)</sub>  
+Built the production management system the company uses to coordinate its production areas; managed servers, backups, users and access.
+
+### Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DavidJosueP2/Banking-Credit-Investment-Simulator"><img src="assets/projects/brunexa-inversiones.webp" alt="Brunexa, online banking" width="100%"/></a>
+<h3>Brunexa, online banking</h3>
+Online banking with credit and investment simulators and identity-verified sign-up.<br/><sub><b>My part:</b> Built the whole investment module: rates by amount and term, taxes, goal simulation and PDF report.</sub>
+<br/><br/><sub><code>Java · Spring Boot · React · TypeScript</code></sub><br/>
+<a href="https://github.com/DavidJosueP2/Banking-Credit-Investment-Simulator">Code</a>
 </td>
-<td valign="top" width="330">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="330" alt="coding" />
+<td width="50%" valign="top">
+<a href="https://github.com/JoelBonillaG/petsafe_movil_app"><img src="assets/projects/petsafe.webp" alt="PetSafe, veterinary clinic" width="100%"/></a>
+<h3>PetSafe, veterinary clinic</h3>
+Web and mobile platform for a vet clinic: appointments, queue and notifications.<br/><sub><b>My part:</b> Built the mobile app, push notifications, pet QR codes and the care queue.</sub>
+<br/><br/><sub><code>Flutter · NestJS · Angular · PostgreSQL</code></sub><br/>
+<a href="https://github.com/JoelBonillaG/petsafe_movil_app">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System"><img src="assets/projects/sistema-gasolina.webp" alt="Distributed fuel management" width="100%"/></a>
+<h3>Distributed fuel management</h3>
+Compares each trip's real fuel use with the expected one.<br/><sub><b>My part:</b> Built the users and routes &amp; trips microservices and their screens. Team of 4.</sub>
+<br/><br/><sub><code>NestJS · gRPC · RabbitMQ · PostgreSQL</code></sub><br/>
+<a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR"><img src="assets/projects/deteccion-vehicular.webp" alt="Automatic plate reading" width="100%"/></a>
+<h3>Automatic plate reading <sub>· <i>Published paper</i></sub></h3>
+Detects vehicles with a camera, reads the plate and proposes an explainable sanction.<br/><sub><b>My part:</b> Trained the models that read each character and designed the sanction rules. <b>94.59%</b> of plates read in full on 74 real vehicles.</sub>
+<br/><br/><sub><code>Python · PyTorch · OpenCV · FastAPI · React</code></sub><br/>
+<a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR">Code</a> · <a href="https://doi.org/10.63957/arksis.v1i2.0011">Paper</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/JoelBonillaG/Fuzzy-Genetic-Maternal-Risk-Assessment"><img src="assets/projects/riesgo-materno.webp" alt="Maternal risk assessment" width="100%"/></a>
+<h3>Maternal risk assessment <sub>· <i>Paper under review</i></sub></h3>
+Classifies pregnancy risk from vital signs and explains every result.<br/><sub><b>My part:</b> Built the fuzzy engine and the genetic algorithm that learns its rules: <b>159</b> rules out of 8,640.</sub>
+<br/><br/><sub><code>Python · FastAPI · React · TypeScript</code></sub><br/>
+<a href="https://github.com/JoelBonillaG/Fuzzy-Genetic-Maternal-Risk-Assessment">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/JosueGarciaAbata/hospital-management-system"><img src="assets/projects/hospital.webp" alt="Hospital management" width="100%"/></a>
+<h3>Hospital management</h3>
+Microservices platform to manage patients and medical consultations.<br/><sub><b>My part:</b> Built the consultations microservice and the patients module. Team of 4.</sub>
+<br/><br/><sub><code>Java · Spring Cloud · Eureka · React</code></sub><br/>
+<a href="https://github.com/JosueGarciaAbata/hospital-management-system">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DRTX2/clinic"><img src="assets/projects/cliniccare.webp" alt="ClinicCare, medical appointments" width="100%"/></a>
+<h3>ClinicCare, medical appointments</h3>
+Clinic platform to book appointments and manage users with secure access.
+<br/><br/><sub><code>Spring Boot · Java 21 · React · PostgreSQL</code></sub><br/>
+<a href="https://github.com/DRTX2/clinic">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/JoelBonillaG/iron_zone_odoo_das"><img src="assets/projects/iron-zone.webp" alt="Iron Zone, gym management" width="100%"/></a>
+<h3>Iron Zone, gym management</h3>
+Gym platform that brings website, memberships and invoicing into one system.
+<br/><br/><sub><code>Odoo 18 · Python · PostgreSQL · Docker</code></sub><br/>
+<a href="https://github.com/JoelBonillaG/iron_zone_odoo_das">Code</a>
 </td>
 </tr>
 </table>
 
-<br/>
+More projects and case studies on my [portfolio](https://portfolio-nu-two-64bxitcr17.vercel.app/).
 
-<!-- ====================== TECH STACK ====================== -->
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30px" /> Tech Stack
+### Publications
 
-<div align="center">
+**Vehicle monitoring system for automobiles through license plate character recognition and sanction assessment using Mamdani fuzzy**<br/>
+J. García-Abata, **F. Bonilla-Guerrero**, R. Nogales · *ARKSIS Journal*, vol. 1, no. 2, 2026 · DOI [10.63957/arksis.v1i2.0011](https://doi.org/10.63957/arksis.v1i2.0011)
 
-#### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Stack
 
-#### 🎨 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<table>
+<tr><td><b>Languages</b></td><td><img alt="Python" src="https://img.shields.io/badge/Python-0F1A2A?style=flat-square&logo=python&logoColor=C9A45C" /> <img alt="Java" src="https://img.shields.io/badge/Java-0F1A2A?style=flat-square&logo=openjdk&logoColor=C9A45C" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0F1A2A?style=flat-square&logo=typescript&logoColor=C9A45C" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0F1A2A?style=flat-square&logo=javascript&logoColor=C9A45C" /> <img alt="PHP" src="https://img.shields.io/badge/PHP-0F1A2A?style=flat-square&logo=php&logoColor=C9A45C" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-0F1A2A?style=flat-square&logo=postgresql&logoColor=C9A45C" /> <img alt="Dart" src="https://img.shields.io/badge/Dart-0F1A2A?style=flat-square&logo=dart&logoColor=C9A45C" /></td></tr>
+<tr><td><b>Backend</b></td><td><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-0F1A2A?style=flat-square&logo=springboot&logoColor=C9A45C" /> <img alt="NestJS" src="https://img.shields.io/badge/NestJS-0F1A2A?style=flat-square&logo=nestjs&logoColor=C9A45C" /> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0F1A2A?style=flat-square&logo=fastapi&logoColor=C9A45C" /> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-0F1A2A?style=flat-square&logo=laravel&logoColor=C9A45C" /> <img alt="gRPC" src="https://img.shields.io/badge/gRPC-0F1A2A?style=flat-square&logo=grpc&logoColor=C9A45C" /> <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-0F1A2A?style=flat-square&logo=rabbitmq&logoColor=C9A45C" /></td></tr>
+<tr><td><b>Frontend &amp; mobile</b></td><td><img alt="React" src="https://img.shields.io/badge/React-0F1A2A?style=flat-square&logo=react&logoColor=C9A45C" /> <img alt="Angular" src="https://img.shields.io/badge/Angular-0F1A2A?style=flat-square&logo=angular&logoColor=C9A45C" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0F1A2A?style=flat-square&logo=flutter&logoColor=C9A45C" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0F1A2A?style=flat-square&logo=tailwindcss&logoColor=C9A45C" /></td></tr>
+<tr><td><b>Data</b></td><td><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0F1A2A?style=flat-square&logo=postgresql&logoColor=C9A45C" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-0F1A2A?style=flat-square&logo=databricks&logoColor=C9A45C" /> <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-0F1A2A?style=flat-square&logo=chartdotjs&logoColor=C9A45C" /> <img alt="ETL" src="https://img.shields.io/badge/ETL-0F1A2A?style=flat-square&logo=apacheairflow&logoColor=C9A45C" /></td></tr>
+<tr><td><b>Quality &amp; delivery</b></td><td><img alt="Docker" src="https://img.shields.io/badge/Docker-0F1A2A?style=flat-square&logo=docker&logoColor=C9A45C" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0F1A2A?style=flat-square&logo=githubactions&logoColor=C9A45C" /> <img alt="JUnit" src="https://img.shields.io/badge/JUnit-0F1A2A?style=flat-square&logo=junit5&logoColor=C9A45C" /> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-0F1A2A?style=flat-square&logo=playwright&logoColor=C9A45C" /> <img alt="Git" src="https://img.shields.io/badge/Git-0F1A2A?style=flat-square&logo=git&logoColor=C9A45C" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-0F1A2A?style=flat-square&logo=linux&logoColor=C9A45C" /></td></tr>
+<tr><td><b>Methodologies</b></td><td><img alt="Scrum" src="https://img.shields.io/badge/Scrum-0F1A2A?style=flat-square&logo=scrumalliance&logoColor=C9A45C" /> <img alt="XP" src="https://img.shields.io/badge/XP-0F1A2A?style=flat-square&logo=xp&logoColor=C9A45C" /></td></tr>
+</table>
 
-#### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### Now
 
-#### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-#### 🧠 AI / Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-#### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- ====================== GITHUB STATS ====================== -->
-## 📊 GitHub Analytics
+`Nov 2026` · Deepening backend architecture and testing; building a solo full stack project end to end.
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelBonillaG&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=FAC775&icon_color=BA7517&text_color=FAEEDA&bg_color=2C2C2A" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelBonillaG&layout=compact&langs_count=8&hide_border=true&title_color=FAC775&text_color=FAEEDA&bg_color=2C2C2A" alt="top langs" />
-
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=JoelBonillaG&hide_border=true&background=2C2C2A&stroke=BA7517&ring=FAC775&fire=FAC775&currStreakLabel=FAC775&sideLabels=FAEEDA&currStreakNum=FAEEDA&sideNums=FAEEDA&dayLabels=FAEEDA&dates=B3A98F&titleColor=FAC775" alt="streak" />
-
-</div>
-
-<br/>
-
-<!-- ====================== ACTIVITY GRAPH ====================== -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoelBonillaG&bg_color=2C2C2A&color=FAEEDA&line=BA7517&point=FAC775&area=true&hide_border=true&title_color=FAC775" width="100%" alt="activity graph" />
-
-</div>
-
-<!-- ====================== SNAKE ====================== -->
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoelBonillaG/JoelBonillaG/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelBonillaG/JoelBonillaG/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/JoelBonillaG/JoelBonillaG/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoelBonillaG/joelbonillag/output/github-snake-gold.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelBonillaG/joelbonillag/output/github-snake.svg" />
+  <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/JoelBonillaG/joelbonillag/output/github-snake.svg" width="100%" />
 </picture>
-
 </div>
 
-<br/>
+### Contact
 
-<!-- ====================== PROJECTS ====================== -->
-## 💼 Featured Projects
+<a href="https://portfolio-nu-two-64bxitcr17.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-C9A45C?style=for-the-badge&logo=vercel&logoColor=0F1A2A" /></a> <a href="https://www.linkedin.com/in/fernando-joel-bonilla-guerrero-639ab6368/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F1A2A?style=for-the-badge&logo=linkedin&logoColor=C9A45C" /></a> <a href="mailto:joelbonillafg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0F1A2A?style=for-the-badge&logo=gmail&logoColor=C9A45C" /></a>
 
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| 🚗 [**License Plate Recognition**](https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR) | End-to-end computer vision: detect, read & penalize plates (94.59% full-plate reading) | `Python` `YOLOv11` `U-Net` `CNN` |
-| 🤰 [**Maternal Risk Assessment**](https://github.com/JoelBonillaG/Fuzzy-Genetic-Maternal-Risk-Assessment) | Explainable fuzzy-genetic clinical decision support | `Python` `FastAPI` `React` |
-| 🏋️ [**Iron Zone — Gym Platform**](https://github.com/JoelBonillaG/iron_zone_odoo_das) | Custom Odoo 18 platform: memberships, store & e-invoicing | `Odoo` `Python` `Docker` |
-| 📊 [**Data Warehouse (Hefesto)**](https://github.com/JoelBonillaG/Proyecto_Hefesto) | Star-schema DW with SSIS ETL + SSAS OLAP cube | `SQL Server` `SSIS` `SSAS` |
-| 🗳️ [**UTA Elections Site**](https://github.com/JoelBonillaG/Pagina_Votaciones_UTA) | Electoral campaign platform with live stats | `Laravel` `Blade` `MySQL` |
+**Résumé:** [Spanish](assets/cv/Joel-Bonilla-CV.pdf) · [English](assets/cv/Joel-Bonilla-CV-EN.pdf)
 
-<br/>
-
-<!-- ====================== CONTACT ====================== -->
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="32px" /> Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/fernando-joel-bonilla-guerrero-639ab6368/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="mailto:joelbonillafg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
-<a href="https://portfolio-nu-two-64bxitcr17.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-BA7517?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ *Thanks for visiting — let's build something great together.*
-
-</div>
+<!-- Owner: Joel Bonilla. Last reviewed: 2026-11-22.
+     Review when: a new job or role, a new featured project, a new paper, graduation, or a job search starts. -->

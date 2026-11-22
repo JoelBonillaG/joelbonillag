@@ -1,186 +1,144 @@
-<!-- ====================== HEADER ====================== -->
 <div align="center">
 
-# Hola 👋, soy Joel Bonilla
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-es-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-es-light.svg" />
+  <img src="assets/banner-es-dark.svg" width="100%" alt="Joel Bonilla — Desarrollador full stack" />
+</picture>
 
-### 💻 Ingeniero de Software · Full-Stack · Visión por Computador e IA
-
-<a href="https://github.com/JoelBonillaG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BA7517&center=true&vCenter=true&width=620&lines=Ingeniero+de+Software;Desarrollador+Full-Stack;Microservicios+y+Arquitectura+Limpia;Visi%C3%B3n+por+Computador+e+IA;Siempre+aprendiendo+algo+nuevo" alt="typing" />
-</a>
-
-<br/>
-
-<!-- Language switch -->
-[![English](https://img.shields.io/badge/lang-English-2C2C2A?style=for-the-badge&labelColor=2C2C2A)](README.md)
-[![Español](https://img.shields.io/badge/lang-Espa%C3%B1ol-BA7517?style=for-the-badge)](README.es.md)
+[English](README.md) · **Español**
 
 </div>
 
-<!-- ====================== ABOUT ====================== -->
-## <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="32px" /> Sobre mí
+**Construyo soluciones de software de punta a punta:** entiendo el problema, diseño la base de datos y la API, y entrego la interfaz que la gente usa.
 
-```ts
-const joel = {
-  rol: "Ingeniero de Software",
-  ubicacion: "Ambato, Ecuador 🇪🇨",
-  estudios: "Ing. en Software @ Universidad Técnica de Ambato",
-  enfoque: ["Full-Stack", "Microservicios", "Cloud", "Visión por Computador e IA"],
-  actualmente: "Abierto a nuevas oportunidades",
-};
-```
+Desarrollador full stack y estudiante de último año de Ingeniería en Software en la Universidad Técnica de Ambato (Ecuador), con un año de experiencia laboral en desarrollo, soporte de sistemas y datos.
+
+<sub>Ambato, Ecuador · 1 año de experiencia laboral · 1 artículo publicado · Disponible para trabajo remoto o presencial</sub>
+
+### Qué hago
 
 <table>
 <tr>
-<td valign="top">
+<td width="33%" valign="top"><b>Backend</b><br/>APIs y servicios que se comunican entre sí, con seguridad por roles y pruebas automatizadas.</td>
+<td width="33%" valign="top"><b>Frontend y móvil</b><br/>Interfaces web y apps móviles claras, conectadas en tiempo real con el backend.</td>
+<td width="33%" valign="top"><b>Datos</b><br/>Bases de datos bien modeladas, reportes e indicadores para decidir con datos.</td>
+</tr>
+</table>
 
-- 🧩 Construyo **sistemas completos de principio a fin** — APIs REST/gRPC, aplicaciones web y móviles, microservicios distribuidos y soluciones de IA y visión por computador.
-- ⚙️ Mi base es **Java y Spring Boot, NestJS, Angular y React, Flutter y Python**, sobre **PostgreSQL/SQL** y **Docker**.
-- 🧠 Me importan la **arquitectura limpia, SOLID, las pruebas automatizadas y el CI/CD** — código que otros puedan mantener de verdad.
-- 🔭 Disfruto convertir **problemas complejos** (lógica difusa, redes neuronales, sistemas en tiempo real) en **productos que funcionan**.
-- 🌱 En constante aprendizaje — mi trabajo va desde backends empresariales hasta pipelines con YOLO/U-Net/CNN.
+### Experiencia
 
+**Analista de Datos y BI · Kronhos** <sub>(Ene – Jun 2026)</sub>  
+Reportes para más de 5 empresas clientes de un ERP comercial; optimicé las consultas detrás de ellos y reduje su tiempo en un <b>60 %</b> en promedio.
+
+**Desarrollador y soporte de sistemas · Vaz Sport** <sub>(Jul – Dic 2025)</sub>  
+Desarrollé el sistema de gestión de producción con el que la empresa coordina sus áreas productivas; administré servidores, respaldos, usuarios y accesos.
+
+### Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DavidJosueP2/Banking-Credit-Investment-Simulator"><img src="assets/projects/brunexa-inversiones.webp" alt="Brunexa, banca en línea" width="100%"/></a>
+<h3>Brunexa, banca en línea</h3>
+Banca en línea con simuladores de crédito e inversión y registro con verificación de identidad.<br/><sub><b>Mi parte:</b> Construí el módulo completo de inversiones: tasas por monto y plazo, impuestos, simulación por meta y reporte en PDF.</sub>
+<br/><br/><sub><code>Java · Spring Boot · React · TypeScript</code></sub><br/>
+<a href="https://github.com/DavidJosueP2/Banking-Credit-Investment-Simulator">Código</a>
 </td>
-<td valign="top" width="330">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="330" alt="coding" />
+<td width="50%" valign="top">
+<a href="https://github.com/JoelBonillaG/petsafe_movil_app"><img src="assets/projects/petsafe.webp" alt="PetSafe, gestión veterinaria" width="100%"/></a>
+<h3>PetSafe, gestión veterinaria</h3>
+Plataforma web y móvil para una clínica veterinaria: citas, cola de atención y notificaciones.<br/><sub><b>Mi parte:</b> Desarrollé la app móvil, las notificaciones push, el código QR por mascota y la cola de atención.</sub>
+<br/><br/><sub><code>Flutter · NestJS · Angular · PostgreSQL</code></sub><br/>
+<a href="https://github.com/JoelBonillaG/petsafe_movil_app">Código</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System"><img src="assets/projects/sistema-gasolina.webp" alt="Gestión distribuida de combustible" width="100%"/></a>
+<h3>Gestión distribuida de combustible</h3>
+Compara el consumo real de combustible de cada viaje con el esperado.<br/><sub><b>Mi parte:</b> Desarrollé los microservicios de usuarios y de rutas y viajes, y sus pantallas. Equipo de 4.</sub>
+<br/><br/><sub><code>NestJS · gRPC · RabbitMQ · PostgreSQL</code></sub><br/>
+<a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System">Código</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR"><img src="assets/projects/deteccion-vehicular.webp" alt="Lectura automática de placas" width="100%"/></a>
+<h3>Lectura automática de placas <sub>· <i>Artículo publicado</i></sub></h3>
+Detecta vehículos con una cámara, lee su placa y sugiere una sanción explicable.<br/><sub><b>Mi parte:</b> Entrené los modelos que leen cada carácter y diseñé las reglas de sanción. <b>94.59 %</b> de placas leídas completas en 74 vehículos reales.</sub>
+<br/><br/><sub><code>Python · PyTorch · OpenCV · FastAPI · React</code></sub><br/>
+<a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR">Código</a> · <a href="https://doi.org/10.63957/arksis.v1i2.0011">Artículo</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/JoelBonillaG/Fuzzy-Genetic-Maternal-Risk-Assessment"><img src="assets/projects/riesgo-materno.webp" alt="Evaluación de riesgo materno" width="100%"/></a>
+<h3>Evaluación de riesgo materno <sub>· <i>Artículo en revisión</i></sub></h3>
+Clasifica el riesgo de un embarazo a partir de signos vitales y explica cada resultado.<br/><sub><b>Mi parte:</b> Construí el motor difuso y el algoritmo genético que aprende sus reglas: <b>159</b> de 8 640 posibles.</sub>
+<br/><br/><sub><code>Python · FastAPI · React · TypeScript</code></sub><br/>
+<a href="https://github.com/JoelBonillaG/Fuzzy-Genetic-Maternal-Risk-Assessment">Código</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/JosueGarciaAbata/hospital-management-system"><img src="assets/projects/hospital.webp" alt="Gestión hospitalaria" width="100%"/></a>
+<h3>Gestión hospitalaria</h3>
+Plataforma de microservicios para gestionar pacientes y consultas médicas.<br/><sub><b>Mi parte:</b> Construí el microservicio de consultas y el módulo de pacientes. Equipo de 4.</sub>
+<br/><br/><sub><code>Java · Spring Cloud · Eureka · React</code></sub><br/>
+<a href="https://github.com/JosueGarciaAbata/hospital-management-system">Código</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DRTX2/clinic"><img src="assets/projects/cliniccare.webp" alt="ClinicCare, citas médicas" width="100%"/></a>
+<h3>ClinicCare, citas médicas</h3>
+Plataforma clínica para agendar citas y gestionar usuarios con acceso seguro.
+<br/><br/><sub><code>Spring Boot · Java 21 · React · PostgreSQL</code></sub><br/>
+<a href="https://github.com/DRTX2/clinic">Código</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/JoelBonillaG/iron_zone_odoo_das"><img src="assets/projects/iron-zone.webp" alt="Iron Zone, gestión de gimnasio" width="100%"/></a>
+<h3>Iron Zone, gestión de gimnasio</h3>
+Plataforma de gimnasio que reúne sitio web, membresías y facturación en un solo sistema.
+<br/><br/><sub><code>Odoo 18 · Python · PostgreSQL · Docker</code></sub><br/>
+<a href="https://github.com/JoelBonillaG/iron_zone_odoo_das">Código</a>
 </td>
 </tr>
 </table>
 
-<br/>
+Más proyectos y casos de estudio en mi [portafolio](https://portfolio-nu-two-64bxitcr17.vercel.app/).
 
-<!-- ====================== TECH STACK ====================== -->
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30px" /> Tecnologías
+### Publicaciones
 
-<div align="center">
+**Vehicle monitoring system for automobiles through license plate character recognition and sanction assessment using Mamdani fuzzy**<br/>
+J. García-Abata, **F. Bonilla-Guerrero**, R. Nogales · *ARKSIS Journal*, vol. 1, no. 2, 2026 · DOI [10.63957/arksis.v1i2.0011](https://doi.org/10.63957/arksis.v1i2.0011)
 
-#### 💻 Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Tecnologías
 
-#### 🎨 Frontend y Móvil
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<table>
+<tr><td><b>Lenguajes</b></td><td><img alt="Python" src="https://img.shields.io/badge/Python-0F1A2A?style=flat-square&logo=python&logoColor=C9A45C" /> <img alt="Java" src="https://img.shields.io/badge/Java-0F1A2A?style=flat-square&logo=openjdk&logoColor=C9A45C" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0F1A2A?style=flat-square&logo=typescript&logoColor=C9A45C" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0F1A2A?style=flat-square&logo=javascript&logoColor=C9A45C" /> <img alt="PHP" src="https://img.shields.io/badge/PHP-0F1A2A?style=flat-square&logo=php&logoColor=C9A45C" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-0F1A2A?style=flat-square&logo=postgresql&logoColor=C9A45C" /> <img alt="Dart" src="https://img.shields.io/badge/Dart-0F1A2A?style=flat-square&logo=dart&logoColor=C9A45C" /></td></tr>
+<tr><td><b>Backend</b></td><td><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-0F1A2A?style=flat-square&logo=springboot&logoColor=C9A45C" /> <img alt="NestJS" src="https://img.shields.io/badge/NestJS-0F1A2A?style=flat-square&logo=nestjs&logoColor=C9A45C" /> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0F1A2A?style=flat-square&logo=fastapi&logoColor=C9A45C" /> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-0F1A2A?style=flat-square&logo=laravel&logoColor=C9A45C" /> <img alt="gRPC" src="https://img.shields.io/badge/gRPC-0F1A2A?style=flat-square&logo=grpc&logoColor=C9A45C" /> <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-0F1A2A?style=flat-square&logo=rabbitmq&logoColor=C9A45C" /></td></tr>
+<tr><td><b>Frontend y móvil</b></td><td><img alt="React" src="https://img.shields.io/badge/React-0F1A2A?style=flat-square&logo=react&logoColor=C9A45C" /> <img alt="Angular" src="https://img.shields.io/badge/Angular-0F1A2A?style=flat-square&logo=angular&logoColor=C9A45C" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0F1A2A?style=flat-square&logo=flutter&logoColor=C9A45C" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0F1A2A?style=flat-square&logo=tailwindcss&logoColor=C9A45C" /></td></tr>
+<tr><td><b>Datos</b></td><td><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0F1A2A?style=flat-square&logo=postgresql&logoColor=C9A45C" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-0F1A2A?style=flat-square&logo=databricks&logoColor=C9A45C" /> <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-0F1A2A?style=flat-square&logo=chartdotjs&logoColor=C9A45C" /> <img alt="ETL" src="https://img.shields.io/badge/ETL-0F1A2A?style=flat-square&logo=apacheairflow&logoColor=C9A45C" /></td></tr>
+<tr><td><b>Calidad y entrega</b></td><td><img alt="Docker" src="https://img.shields.io/badge/Docker-0F1A2A?style=flat-square&logo=docker&logoColor=C9A45C" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0F1A2A?style=flat-square&logo=githubactions&logoColor=C9A45C" /> <img alt="JUnit" src="https://img.shields.io/badge/JUnit-0F1A2A?style=flat-square&logo=junit5&logoColor=C9A45C" /> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-0F1A2A?style=flat-square&logo=playwright&logoColor=C9A45C" /> <img alt="Git" src="https://img.shields.io/badge/Git-0F1A2A?style=flat-square&logo=git&logoColor=C9A45C" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-0F1A2A?style=flat-square&logo=linux&logoColor=C9A45C" /></td></tr>
+<tr><td><b>Metodologías</b></td><td><img alt="Scrum" src="https://img.shields.io/badge/Scrum-0F1A2A?style=flat-square&logo=scrumalliance&logoColor=C9A45C" /> <img alt="XP" src="https://img.shields.io/badge/XP-0F1A2A?style=flat-square&logo=xp&logoColor=C9A45C" /></td></tr>
+</table>
 
-#### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### Ahora
 
-#### 🗄️ Bases de datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-#### 🧠 IA / Datos
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-#### ☁️ DevOps y Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- ====================== GITHUB STATS ====================== -->
-## 📊 Estadísticas de GitHub
+`Nov 2026` · Profundizando en arquitectura backend y pruebas; construyendo un proyecto full stack individual de punta a punta.
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelBonillaG&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=FAC775&icon_color=BA7517&text_color=FAEEDA&bg_color=2C2C2A&locale=es" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelBonillaG&layout=compact&langs_count=8&hide_border=true&title_color=FAC775&text_color=FAEEDA&bg_color=2C2C2A&locale=es" alt="top langs" />
-
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=JoelBonillaG&locale=es&hide_border=true&background=2C2C2A&stroke=BA7517&ring=FAC775&fire=FAC775&currStreakLabel=FAC775&sideLabels=FAEEDA&currStreakNum=FAEEDA&sideNums=FAEEDA&dayLabels=FAEEDA&dates=B3A98F&titleColor=FAC775" alt="streak" />
-
-</div>
-
-<br/>
-
-<!-- ====================== ACTIVITY GRAPH ====================== -->
-## 📈 Gráfico de contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoelBonillaG&bg_color=2C2C2A&color=FAEEDA&line=BA7517&point=FAC775&area=true&hide_border=true&title_color=FAC775" width="100%" alt="activity graph" />
-
-</div>
-
-<!-- ====================== SNAKE ====================== -->
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoelBonillaG/JoelBonillaG/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelBonillaG/JoelBonillaG/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/JoelBonillaG/JoelBonillaG/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoelBonillaG/joelbonillag/output/github-snake-gold.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelBonillaG/joelbonillag/output/github-snake.svg" />
+  <img alt="Gráfico de contribuciones animado como serpiente" src="https://raw.githubusercontent.com/JoelBonillaG/joelbonillag/output/github-snake.svg" width="100%" />
 </picture>
-
 </div>
 
-<br/>
+### Contacto
 
-<!-- ====================== PROJECTS ====================== -->
-## 💼 Proyectos destacados
+<a href="https://portfolio-nu-two-64bxitcr17.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-C9A45C?style=for-the-badge&logo=vercel&logoColor=0F1A2A" /></a> <a href="https://www.linkedin.com/in/fernando-joel-bonilla-guerrero-639ab6368/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F1A2A?style=for-the-badge&logo=linkedin&logoColor=C9A45C" /></a> <a href="mailto:joelbonillafg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0F1A2A?style=for-the-badge&logo=gmail&logoColor=C9A45C" /></a>
 
-| Proyecto | Descripción | Tecnologías |
-| -------- | ----------- | ----------- |
-| 🚗 [**Reconocimiento de Placas**](https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR) | Visión por computador de extremo a extremo: detecta, lee y sanciona placas (94.59% de lectura completa) | `Python` `YOLOv11` `U-Net` `CNN` |
-| 🤰 [**Evaluación de Riesgo Materno**](https://github.com/JoelBonillaG/Fuzzy-Genetic-Maternal-Risk-Assessment) | Apoyo a la decisión clínica difuso-genético y explicable | `Python` `FastAPI` `React` |
-| 🏋️ [**Iron Zone — Gimnasio**](https://github.com/JoelBonillaG/iron_zone_odoo_das) | Plataforma a medida sobre Odoo 18: membresías, tienda y facturación electrónica | `Odoo` `Python` `Docker` |
-| 📊 [**Data Warehouse (Hefesto)**](https://github.com/JoelBonillaG/Proyecto_Hefesto) | DW en esquema estrella con ETL en SSIS y cubo OLAP en SSAS | `SQL Server` `SSIS` `SSAS` |
-| 🗳️ [**Sitio de Elecciones UTA**](https://github.com/JoelBonillaG/Pagina_Votaciones_UTA) | Plataforma de campaña electoral con estadísticas en vivo | `Laravel` `Blade` `MySQL` |
+**CV:** [Español](assets/cv/Joel-Bonilla-CV.pdf) · [English](assets/cv/Joel-Bonilla-CV-EN.pdf)
 
-<br/>
-
-<!-- ====================== CONTACT ====================== -->
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="32px" /> Hablemos
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/fernando-joel-bonilla-guerrero-639ab6368/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="mailto:joelbonillafg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
-<a href="https://portfolio-nu-two-64bxitcr17.vercel.app/">
-  <img src="https://img.shields.io/badge/Portafolio-BA7517?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ *Gracias por visitar — construyamos algo grande juntos.*
-
-</div>
+<!-- Owner: Joel Bonilla. Last reviewed: 2026-11-22.
+     Review when: a new job or role, a new featured project, a new paper, graduation, or a job search starts. -->
