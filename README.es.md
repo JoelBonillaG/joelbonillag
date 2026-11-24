@@ -50,7 +50,7 @@ Banca en línea con simuladores de crédito e inversión y registro con verifica
 <h3>PetSafe: clínica veterinaria web y móvil</h3>
 Plataforma web y móvil para una clínica veterinaria: citas, cola de atención y notificaciones.<br/><sub><b>Mi parte:</b> Desarrollé la app móvil, las notificaciones push, el código QR por mascota y la cola de atención.</sub>
 <br/><br/><sub><code>Flutter · NestJS · Angular · PostgreSQL</code></sub><br/>
-<a href="https://github.com/JoelBonillaG/petsafe_movil_app">Código</a>
+Código: <a href="https://github.com/JoelBonillaG/petsafe_movil_app">App móvil</a> · <a href="https://github.com/STRATIUM-UTA/PetSafe-Back">Backend</a> · <a href="https://github.com/STRATIUM-UTA/PetSafe-Front">Web</a>
 </td>
 </tr>
 <tr>

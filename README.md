@@ -50,7 +50,7 @@ Online banking with credit and investment simulators and identity-verified sign-
 <h3>PetSafe: web and mobile vet clinic</h3>
 Web and mobile platform for a vet clinic: appointments, queue and notifications.<br/><sub><b>My part:</b> Built the mobile app, push notifications, pet QR codes and the care queue.</sub>
 <br/><br/><sub><code>Flutter · NestJS · Angular · PostgreSQL</code></sub><br/>
-<a href="https://github.com/JoelBonillaG/petsafe_movil_app">Code</a>
+Code: <a href="https://github.com/JoelBonillaG/petsafe_movil_app">Mobile app</a> · <a href="https://github.com/STRATIUM-UTA/PetSafe-Back">Backend</a> · <a href="https://github.com/STRATIUM-UTA/PetSafe-Front">Web</a>
 </td>
 </tr>
 <tr>
