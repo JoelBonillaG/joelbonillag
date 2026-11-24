@@ -62,8 +62,8 @@ Compara el consumo real de combustible de cada viaje con el esperado.<br/><sub><
 <a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System">Código</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR"><img src="assets/projects/deteccion-vehicular.webp" alt="Lectura automática de placas" width="100%"/></a>
-<h3>Lectura automática de placas <sub>· <i>Artículo publicado</i></sub></h3>
+<a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR"><img src="assets/projects/deteccion-vehicular.webp" alt="Monitoreo UTA: lectura de placas con IA" width="100%"/></a>
+<h3>Monitoreo UTA: lectura de placas con IA <sub>· <i>Artículo publicado</i></sub></h3>
 Detecta vehículos con una cámara, lee su placa y sugiere una sanción explicable.<br/><sub><b>Mi parte:</b> Entrené los modelos que leen cada carácter y diseñé las reglas de sanción. <b>94.59 %</b> de placas leídas completas en 74 vehículos reales.</sub>
 <br/><br/><sub><code>Python · PyTorch · OpenCV · FastAPI · React</code></sub><br/>
 <a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR">Código</a> · <a href="https://doi.org/10.63957/arksis.v1i2.0011">Artículo</a>

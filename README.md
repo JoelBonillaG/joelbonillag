@@ -62,8 +62,8 @@ Compares each trip's real fuel use with the expected one.<br/><sub><b>My part:</
 <a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System">Code</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR"><img src="assets/projects/deteccion-vehicular.webp" alt="Automatic plate reading" width="100%"/></a>
-<h3>Automatic plate reading <sub>· <i>Published paper</i></sub></h3>
+<a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR"><img src="assets/projects/deteccion-vehicular.webp" alt="Monitoreo UTA: AI license plate reading" width="100%"/></a>
+<h3>Monitoreo UTA: AI license plate reading <sub>· <i>Published paper</i></sub></h3>
 Detects vehicles with a camera, reads the plate and proposes an explainable sanction.<br/><sub><b>My part:</b> Trained the models that read each character and designed the sanction rules. <b>94.59%</b> of plates read in full on 74 real vehicles.</sub>
 <br/><br/><sub><code>Python · PyTorch · OpenCV · FastAPI · React</code></sub><br/>
 <a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR">Code</a> · <a href="https://doi.org/10.63957/arksis.v1i2.0011">Paper</a>
