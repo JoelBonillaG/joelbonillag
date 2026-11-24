@@ -59,7 +59,7 @@ Code: <a href="https://github.com/JoelBonillaG/petsafe_movil_app">Mobile app</a>
 <h3>FuelQ: smart fuel control</h3>
 Compares each trip's real fuel use with the expected one.<br/><sub><b>My part:</b> Built the users and routes &amp; trips microservices and their screens. Team of 4.</sub>
 <br/><br/><sub><code>NestJS · gRPC · RabbitMQ · PostgreSQL</code></sub><br/>
-<a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System">Code</a>
+Code: <a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System">Backend</a> · <a href="https://github.com/JoelBonillaG/Distributed-Gasoline-System-Frontend">Web</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR"><img src="assets/projects/deteccion-vehicular.webp" alt="Monitoreo UTA: AI license plate reading" width="100%"/></a>

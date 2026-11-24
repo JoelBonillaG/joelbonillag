@@ -59,7 +59,7 @@ Código: <a href="https://github.com/JoelBonillaG/petsafe_movil_app">App móvil<
 <h3>FuelQ: control inteligente de combustible</h3>
 Compara el consumo real de combustible de cada viaje con el esperado.<br/><sub><b>Mi parte:</b> Desarrollé los microservicios de usuarios y de rutas y viajes, y sus pantallas. Equipo de 4.</sub>
 <br/><br/><sub><code>NestJS · gRPC · RabbitMQ · PostgreSQL</code></sub><br/>
-<a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System">Código</a>
+Código: <a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System">Backend</a> · <a href="https://github.com/JoelBonillaG/Distributed-Gasoline-System-Frontend">Web</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/JoelBonillaG/Plate_Detection_Segmentation_OCR"><img src="assets/projects/deteccion-vehicular.webp" alt="Monitoreo UTA: lectura de placas con IA" width="100%"/></a>
