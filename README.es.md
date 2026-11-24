@@ -14,7 +14,7 @@
 
 Desarrollador full stack y estudiante de último año de Ingeniería en Software en la Universidad Técnica de Ambato (Ecuador), con un año de experiencia laboral en desarrollo, soporte de sistemas y datos.
 
-<sub>Ambato, Ecuador · 1 año de experiencia laboral · 1 artículo publicado · Disponible para trabajo remoto o presencial</sub>
+<sub>Ambato, Ecuador · 1 año de experiencia laboral · Disponible para trabajo remoto o presencial</sub>
 
 ### Qué hago
 

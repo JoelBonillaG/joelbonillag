@@ -14,7 +14,7 @@
 
 Full stack developer and final-year Software Engineering student at Universidad Técnica de Ambato (Ecuador), with one year of work experience in development, systems support and data.
 
-<sub>Ambato, Ecuador · 1 year of work experience · 1 published paper · Open to remote or on-site roles</sub>
+<sub>Ambato, Ecuador · 1 year of work experience · Open to remote or on-site roles</sub>
 
 ### What I do
 
