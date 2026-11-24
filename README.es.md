@@ -136,7 +136,7 @@ J. García-Abata, **F. Bonilla-Guerrero**, R. Nogales · *ARKSIS Journal*, vol. 
 
 ### Contacto
 
-<a href="https://portfolio-nu-two-64bxitcr17.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-C9A45C?style=for-the-badge&logo=vercel&logoColor=0F1A2A" /></a> <a href="https://www.linkedin.com/in/fernando-joel-bonilla-guerrero-639ab6368/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F1A2A?style=for-the-badge&logo=linkedin&logoColor=C9A45C" /></a> <a href="mailto:joelbonillafg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0F1A2A?style=for-the-badge&logo=gmail&logoColor=C9A45C" /></a>
+<a href="https://portfolio-nu-two-64bxitcr17.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-C9A45C?style=for-the-badge&logo=vercel&logoColor=0F1A2A" /></a> <a href="https://www.linkedin.com/in/joel-bonilla-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F1A2A?style=for-the-badge&logo=linkedin&logoColor=C9A45C" /></a> <a href="mailto:joelbonillafg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0F1A2A?style=for-the-badge&logo=gmail&logoColor=C9A45C" /></a>
 
 **CV:** [Español](assets/cv/Joel-Bonilla-CV.pdf) · [English](assets/cv/Joel-Bonilla-CV-EN.pdf)
 
