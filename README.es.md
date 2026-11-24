@@ -39,15 +39,15 @@ Desarrollé el sistema de gestión de producción con el que la empresa coordina
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/DavidJosueP2/Banking-Credit-Investment-Simulator"><img src="assets/projects/brunexa-inversiones.webp" alt="Brunexa, banca en línea" width="100%"/></a>
-<h3>Brunexa, banca en línea</h3>
+<a href="https://github.com/DavidJosueP2/Banking-Credit-Investment-Simulator"><img src="assets/projects/brunexa-inversiones.webp" alt="Brunexa: banca en línea" width="100%"/></a>
+<h3>Brunexa: banca en línea</h3>
 Banca en línea con simuladores de crédito e inversión y registro con verificación de identidad.<br/><sub><b>Mi parte:</b> Construí el módulo completo de inversiones: tasas por monto y plazo, impuestos, simulación por meta y reporte en PDF.</sub>
 <br/><br/><sub><code>Java · Spring Boot · React · TypeScript</code></sub><br/>
 <a href="https://github.com/DavidJosueP2/Banking-Credit-Investment-Simulator">Código</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/JoelBonillaG/petsafe_movil_app"><img src="assets/projects/petsafe.webp" alt="PetSafe, gestión veterinaria" width="100%"/></a>
-<h3>PetSafe, gestión veterinaria</h3>
+<a href="https://github.com/JoelBonillaG/petsafe_movil_app"><img src="assets/projects/petsafe.webp" alt="PetSafe: clínica veterinaria web y móvil" width="100%"/></a>
+<h3>PetSafe: clínica veterinaria web y móvil</h3>
 Plataforma web y móvil para una clínica veterinaria: citas, cola de atención y notificaciones.<br/><sub><b>Mi parte:</b> Desarrollé la app móvil, las notificaciones push, el código QR por mascota y la cola de atención.</sub>
 <br/><br/><sub><code>Flutter · NestJS · Angular · PostgreSQL</code></sub><br/>
 <a href="https://github.com/JoelBonillaG/petsafe_movil_app">Código</a>
@@ -55,8 +55,8 @@ Plataforma web y móvil para una clínica veterinaria: citas, cola de atención 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System"><img src="assets/projects/sistema-gasolina.webp" alt="Gestión distribuida de combustible" width="100%"/></a>
-<h3>Gestión distribuida de combustible</h3>
+<a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System"><img src="assets/projects/sistema-gasolina.webp" alt="FuelQ: control inteligente de combustible" width="100%"/></a>
+<h3>FuelQ: control inteligente de combustible</h3>
 Compara el consumo real de combustible de cada viaje con el esperado.<br/><sub><b>Mi parte:</b> Desarrollé los microservicios de usuarios y de rutas y viajes, y sus pantallas. Equipo de 4.</sub>
 <br/><br/><sub><code>NestJS · gRPC · RabbitMQ · PostgreSQL</code></sub><br/>
 <a href="https://github.com/DavidJosueP2/Distributed-Gasoline-System">Código</a>
@@ -71,15 +71,15 @@ Detecta vehículos con una cámara, lee su placa y sugiere una sanción explicab
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/JoelBonillaG/Fuzzy-Genetic-Maternal-Risk-Assessment"><img src="assets/projects/riesgo-materno.webp" alt="Evaluación de riesgo materno" width="100%"/></a>
-<h3>Evaluación de riesgo materno <sub>· <i>Artículo en revisión</i></sub></h3>
+<a href="https://github.com/JoelBonillaG/Fuzzy-Genetic-Maternal-Risk-Assessment"><img src="assets/projects/riesgo-materno.webp" alt="Riesgo materno: IA explicable para el embarazo" width="100%"/></a>
+<h3>Riesgo materno: IA explicable para el embarazo <sub>· <i>Artículo en revisión</i></sub></h3>
 Clasifica el riesgo de un embarazo a partir de signos vitales y explica cada resultado.<br/><sub><b>Mi parte:</b> Construí el motor difuso y el algoritmo genético que aprende sus reglas: <b>159</b> de 8 640 posibles.</sub>
 <br/><br/><sub><code>Python · FastAPI · React · TypeScript</code></sub><br/>
 <a href="https://github.com/JoelBonillaG/Fuzzy-Genetic-Maternal-Risk-Assessment">Código</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/JosueGarciaAbata/hospital-management-system"><img src="assets/projects/hospital.webp" alt="Gestión hospitalaria" width="100%"/></a>
-<h3>Gestión hospitalaria</h3>
+<a href="https://github.com/JosueGarciaAbata/hospital-management-system"><img src="assets/projects/hospital.webp" alt="H&Q Hospital: gestión hospitalaria" width="100%"/></a>
+<h3>H&Q Hospital: gestión hospitalaria</h3>
 Plataforma de microservicios para gestionar pacientes y consultas médicas.<br/><sub><b>Mi parte:</b> Construí el microservicio de consultas y el módulo de pacientes. Equipo de 4.</sub>
 <br/><br/><sub><code>Java · Spring Cloud · Eureka · React</code></sub><br/>
 <a href="https://github.com/JosueGarciaAbata/hospital-management-system">Código</a>
@@ -87,15 +87,15 @@ Plataforma de microservicios para gestionar pacientes y consultas médicas.<br/>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/DRTX2/clinic"><img src="assets/projects/cliniccare.webp" alt="ClinicCare, citas médicas" width="100%"/></a>
-<h3>ClinicCare, citas médicas</h3>
+<a href="https://github.com/DRTX2/clinic"><img src="assets/projects/cliniccare.webp" alt="ClinicCare: agenda médica en línea" width="100%"/></a>
+<h3>ClinicCare: agenda médica en línea</h3>
 Plataforma clínica para agendar citas y gestionar usuarios con acceso seguro.
 <br/><br/><sub><code>Spring Boot · Java 21 · React · PostgreSQL</code></sub><br/>
 <a href="https://github.com/DRTX2/clinic">Código</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/JoelBonillaG/iron_zone_odoo_das"><img src="assets/projects/iron-zone.webp" alt="Iron Zone, gestión de gimnasio" width="100%"/></a>
-<h3>Iron Zone, gestión de gimnasio</h3>
+<a href="https://github.com/JoelBonillaG/iron_zone_odoo_das"><img src="assets/projects/iron-zone.webp" alt="Iron Zone: gestión de gimnasio" width="100%"/></a>
+<h3>Iron Zone: gestión de gimnasio</h3>
 Plataforma de gimnasio que reúne sitio web, membresías y facturación en un solo sistema.
 <br/><br/><sub><code>Odoo 18 · Python · PostgreSQL · Docker</code></sub><br/>
 <a href="https://github.com/JoelBonillaG/iron_zone_odoo_das">Código</a>
